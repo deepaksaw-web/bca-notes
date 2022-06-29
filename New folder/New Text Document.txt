@@ -1,0 +1,2311 @@
+
+<!Doctype html>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" class="no-js"> <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="images/title-logo.png" />
+	
+<title>gcsinstitute.com,Google Computer Science Institute, Google Computer Science Institute Hazaribagh Jharkhand, Website Designing & Development Company, Jharkhand, India, Website, Websites, Website Development, Website Design, Jharkhand, Hazaribagh, Ramnagar, Ranchi, Koderma, Ichak, Giridih, Bokaro, Matwari, Babu Gaon, Korrah, Tata Nagar, Patratu, India, Best Computer Institute in Hazaribagh,Best Computer Institute for Students in Hazaribagh Jharkhand,Best Computer School in Jharkhand,Top 10 Computer Institute in Jharkhand,Famouse Computer Institute for Students,Top Computer Institute in Jharkhand, Best Computer Institute, Best Software Training Institute in Hazaribagh, top 10 Computer Institute in Hazaribagh, Best Software Training Institute in Jharkhand, Best Software Training Institute In India,list of Software Training Institute in Hazaribagh, Best Computer Institute in Ranchi,TOP Software Training Institute,TOP Software Training Institute in Koderma, Super Software Training Institute,Software Training Institute,Hazaribagh Software Training Institute,Coogle Computer Science Institute,Google Software Training Institute in Hazaribagh,Top 10 Software Training Institute in Hazaribagh,Best Computer Institute in Hazaribagh, Google Computer Science Institute In Jharkhand, Google Computer Science Institute In Giridih, Google Computer Science Institute In Jharkhand, Google Computer Science Institute In Jharkhand, Google Computer Science Institute In Ramgarh, Google Computer Institute In Korrah, Google Computer Science Institute In Bokaro, Google Computer Science Institute In Ranchi, Google Computer Science Institute In Sindur Hazaribagh,Google Computer Science Institute In Demotand, Google Computer Science Institute In Babugaon, Google Computer Science Institute, Google Computer Science Institute Hazaribagh, Google Computer Science Institute Jharkhand, Google Computer Science Institute Koderma, Google Computer Science Institute Giridih, Google Computer Science Institute India, Google Computer Science Institute Bagodar, Google Computer Science Institute Patratu, Google Computer Science Institute, gcsinsititute Hazaribagh, gcsinsititute Babugaon, gcsinsititute Jharkhand, gcsinsititute Koderma, gcsinsititute Giridih, gcsinsititute Bagodar, gcsinsititute Ranchi, gcsinsititute Patratu,gcsinsititute Ichak,gcsinsititute Katkamsandi, gcsinsititute Daaru, gcsinsititute Ramgarh, gcs insititute Hazaribagh, gcs insititute Jharkhand, Abhishek Verma, Jharkhand Software Training Company, Software Training Company, Popular Software Training Company in Jharkhand,Popular Software Training Institute in Ranchi,Popular Software Training Institute in Hazaribagh,Popular Software Training Institute in Koderma,Popular Software Training Institute in Giridih,Popular Software Training Institute in Ichak,Popular Software Training Institute in Sindur Hazaribagh,Popular Software Training Institute in India,Best Software Company in Jharkhand, Best Software Training Institute in Jharkhand,Best Software  Training Institute in Katkamsandi Hazaribagh,Best Software  Training Institute in Bagodar,Best Software  Training Institute, Cheapest Computer Courses, Cheapest Software Training in Hazaribagh, Cheapest Software Training in Ranchi. </title>
+	<meta name="description" content="gcsinstitute.com is a Computer Institute in hazarubagh India offering Hardware and software courses.  Google Computer Science Institute is also working in the field of Hardware and Software Training. Google Computer Science Institute Hazaribagh Jharkhand Provides Excellent Knowladge in unique way by IT Professionals.">
+	<meta name="keywords" content="keywords,Website, Websites, Website Development, Website Design, gcsinstitute.com,Google Computer Science Institute, Google Computer Science Institute Hazaribagh Jharkhand, Website Designing & Development Company, Jharkhand, India, Website, Websites, Website Development, Website Design, Jharkhand, Hazaribagh, Ramnagar, Ranchi, Koderma, Ichak, Giridih, Bokaro, Matwari, Babu Gaon, Korrah, Tata Nagar, Patratu, India, Best Computer Institute in Hazaribagh,Best Computer Institute for Students in Hazaribagh Jharkhand,Best Computer School in Jharkhand,Top 10 Computer Institute in Jharkhand,Famouse Computer Institute for Students,Top Computer Institute in Jharkhand, Best Computer Institute, Best Software Training Institute in Hazaribagh, top 10 Computer Institute in Hazaribagh, Best Software Training Institute in Jharkhand, Best Software Training Institute In India,list of Software Training Institute in Hazaribagh, Best Computer Institute in Ranchi,TOP Software Training Institute,TOP Software Training Institute in Koderma, Super Software Training Institute,Software Training Institute,Hazaribagh Software Training Institute,Coogle Computer Science Institute,Google Software Training Institute in Hazaribagh,Top 10 Software Training Institute in Hazaribagh,Best Computer Institute in Hazaribagh, Google Computer Science Institute In Jharkhand, Google Computer Science Institute In Giridih, Google Computer Science Institute In Jharkhand, Google Computer Science Institute In Jharkhand, Google Computer Science Institute In Ramgarh, Google Computer Institute In Korrah, Google Computer Science Institute In Bokaro, Google Computer Science Institute In Ranchi, Google Computer Science Institute In Sindur Hazaribagh,Google Computer Science Institute In Demotand, Google Computer Science Institute In Babugaon, Google Computer Science Institute, Google Computer Science Institute Hazaribagh, Google Computer Science Institute Jharkhand, Google Computer Science Institute Koderma, Google Computer Science Institute Giridih, Google Computer Science Institute India, Google Computer Science Institute Bagodar, Google Computer Science Institute Patratu, Google Computer Science Institute, gcsinsititute Hazaribagh, gcsinsititute Babugaon, gcsinsititute Jharkhand, gcsinsititute Koderma, gcsinsititute Giridih, gcsinsititute Bagodar, gcsinsititute Ranchi, gcsinsititute Patratu,gcsinsititute Ichak,gcsinsititute Katkamsandi, gcsinsititute Daaru, gcsinsititute Ramgarh, gcs insititute Hazaribagh, gcs insititute Jharkhand, Abhishek Verma, Jharkhand Software Training Company, Software Training Company, Popular Software Training Company in Jharkhand,Popular Software Training Institute in Ranchi,Popular Software Training Institute in Hazaribagh,Popular Software Training Institute in Koderma,Popular Software Training Institute in Giridih,Popular Software Training Institute in Ichak,Popular Software Training Institute in Sindur Hazaribagh,Popular Software Training Institute in India,Best Software Company in Jharkhand, Best Software Training Institute in Jharkhand,Best Software  Training Institute in Katkamsandi Hazaribagh,Best Software  Training Institute in Bagodar,Best Software  Training Institute, Cheapest Computer Courses, Cheapest Software Training in Hazaribagh, Cheapest Software Training in Ranchi.">
+	
+	<!--[if lt IE 9]>
+	    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	  
+	<link rel="shortcut icon" href="images/google.jpg" type="image/x-icon" />
+    
+    <!-- **CSS - stylesheets** -->
+	<link id="default-css" rel="stylesheet" href="style.css" type="text/css" media="all" />
+	<link id="shortcodes-css" rel="stylesheet" href="shortcodes.css" type="text/css" media="all"/>
+	<link id="skin-css" rel="stylesheet" href="skins/skyblue/style.css" type="text/css" media="all"/>
+    <link id="layer-slider" rel="stylesheet"  href="css/layerslider.css" media="all" />
+	
+	<!-- **Additional - stylesheets** -->
+	<link rel="stylesheet" href="responsive.css" type="text/css" media="all"/>
+	<link rel="stylesheet" href="css/meanmenu.css" type="text/css" media="all"/>
+	<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="screen"/>
+    <link rel="stylesheet" href="css/animations.css" type="text/css" media="all" />
+    
+    <!-- **Font Awesome** -->
+	<link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" />
+    
+        <link href="css/animate.min.css" rel="stylesheet">
+    	
+        
+        
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/Glyphter.css" rel="stylesheet">
+    <!-- **Google - Fonts** -->
+    <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>  
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/bootstrap.css" rel="stylesheet">
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery.scrollbox.js"></script>  
+</head>
+
+<body class="pace-done" style="">
+
+<!-- **Wrapper** -->
+<div class="wrapper"> 
+	<div class="inner-wrapper">
+    	
+        <!-- **Top Bar** -->
+        <div class="top-bar">
+<style>
+.top-menu-left {
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+@media only screen and (max-width: 767px)
+{
+.top-menu-left {
+	    padding-left: 30px;
+}
+}
+@media only screen and (min-width: 767px)
+{
+.top-menu-left {
+	    padding-left: 0px;
+}
+}
+</style>
+            <div class="container">
+            		<ul class="top-menu-left">
+                        <li> <i class="fa fa-bullhorn"></i>  <strong>Special Classes For 11th & 12th</strong> </li>
+                        <!--<li> <i class="fa fa-globe"></i>   <span> <strong>ISO 9001:2008</strong> </span></li>-->
+                    </ul>
+                    <ul class="top-menu">
+                        <li> <i class="fa fa-envelope"></i>  : <a href="maito:sandeepkumarhzb43@gmail.com" title=""> sandeepkumarhzb43@gmail.com </a></li>
+                        <!--<li> <i class="fa fa-bell"></i>  <strong><a href="placement.php">Careers</a></strong> </li>-->
+                        <!--<li> <i class="fa fa-globe"></i>   <span> <strong>ISO 9001:2008</strong> </span></li>-->
+                    </ul>
+                
+                
+                
+            </div>
+        </div>        <!-- **Top Bar - End** -->
+                
+        <div id="header-wrapper">
+	        <!-- **Header** -->
+	        <header class="header">
+	        	<div class="container">
+	            
+	                <!-- **Logo - End** -->
+	                <div id="logo">
+	                    <a href="index.php" title="Google Computer Science Institute"> <img alt="logo" src="images/google.png"> </a>
+	                </div><!-- **Logo - End** -->
+	                <div style="float:right; margin-top:30px" class="column dt-sc-two-third">
+                    <ul class="top-menu" style="float:right">
+                        <li> <i class="fa fa-phone"></i>  Any Questions? Call Us: <span> <strong>+91 74810 48211</strong> </span></li>
+                       <!-- <li> <i class="fa fa-globe"></i>   <span> <strong><a href="newbatches.php">New Batches</a></strong> </span></li>-->
+                    </ul>
+                    </div>
+                    </div>
+                    
+                    
+                    <div  class="main-menu">
+                    
+                    <div class=" container">
+                    
+                    
+	                <div id="menu-container">
+	                    <!-- **Nav - Starts**-->
+	                    <nav id="main-menu">
+	                        <div  id="dt-menu-toggle" class="dt-menu-toggle">
+                                Menu
+                                <span class="dt-menu-toggle-icon"></span>
+                            </div>
+                            <ul class="menu">
+	                            <li class="menu-item-simple-parent"><a href="index.php">Home</a></li>
+                                <li class="menu-item-simple-parent"><a href="about-us.php">About Us</a>
+                                </li>
+	                            <li class="menu-item-simple-parent"><a href="#">Courses Offered </a>
+                                	<ul class="sub-menu">
+                                     	<li><a href="#">LANGUAGES</a>
+										<ul>
+										<li><a href="#">PHP</a></li>
+										<li><a href="#">HTML</a></li>
+										<li><a href="#">C</a></li>
+										<li><a href="#">C++</a></li>
+										<li><a href="#">JAVA</a></li>
+										<li><a href="#">PYTHON</a></li>
+                                     </ul>
+                                     <a class="dt-menu-expand">+</a></li>
+										<li><a href="#">DIPLOMA</a>
+										<ul>
+										<li><a href="#">ADCA</a></li>
+										<li><a href="#">ADCA+</a></li>
+                                        <li><a href="#">DCA+</a></li>
+										</ul>
+										<a class="dt-menu-expand">+</a></li>
+										
+										<li><a href="#">INTERNET</a>
+										<ul>
+										<li><a href="#">SOCIAL MEDIA</a></li>
+										<li><a href="#">E-MAIL</a></li>
+										<li><a href="#">ONLINE APPLICATION</a></li>
+                                        <li><a href="#">E-COMMERCE</a></li>
+										</ul>
+										<a class="dt-menu-expand">+</a></li>
+                                        
+                                        <li><a href="#">MULTIMEDIA</a>
+										<ul>
+										<li><a href="#">PHOTOSHOP</a></li>
+										<li><a href="#">COREL DRAW</a></li>
+										<li><a href="#">PAGE MAKER</a></li>
+										</ul>
+										<a class="dt-menu-expand">+</a></li>
+                                        
+                                        <li><a href="#">ACCOUNTING</a>
+										<ul>
+										<li><a href="#">TALLY ERP 9</a></li>
+										</ul>
+										<a class="dt-menu-expand">+</a></li>
+                                        
+                                        <li><a href="#">SPECIAL</a>
+										<ul>
+										<li><a href="#">DATA STRUCTURE</a></li>
+										</ul>
+										<a class="dt-menu-expand">+</a></li>                                        
+									    
+                                </ul>
+                                <a class="dt-menu-expand">+</a>
+                                </li>
+                                <!--
+                                 <li class="menu-item-simple-parent"><a href="timetable.php">Time Table</a>
+                                <ul class="sub-menu">
+                                    <li><a href="timetable.php">ONGOING CLASSES</a></li>
+                                    	<li><a href="new batches.php">NEW BATCHES</a></li></ul>
+                                    	<a class="dt-menu-expand">+</a>
+                                    </li>
+	                            <li class="menu-item-simple-parent"><a href="#">Student Corner</a>
+                                	<ul class="sub-menu">
+                                    	<li><a href="#">Knowledge Sharing</a></li>
+										<li><a href="placement.php">Placements</a></li>
+										<li><a href="#">Testimonials</a></li>
+										<li><a href="job.php">Recruitment</a></li>
+                                     </ul>
+                                    <a class="dt-menu-expand">+</a>
+                                </li>
+                                -->
+	                            <li class="menu-item-simple-parent"><a href="gallery.php">Gallery</a>
+                                </li>
+	                            
+                                
+	                            <li class="menu-item-simple-parent"><a href="contact.php" >Contact Us</a> </li>
+                                 <li class="menu-item-simple-parent"><a href="" data-toggle="modal" data-target="#modalLoginForm">Log In</a></li>
+								<!--
+                                <li class="menu-item-simple-parent list-menu" >
+									<form action="search.php" method="POST" autocomplete="off" style="margin-left:10px;">
+										<input type="search" id="in" list="sar" placeholder="Search select from dropdown..." style="border-radius:20px;" name="search">
+										<datalist id='sar' name='search' class='sear'><option value='Accounting-packages'>Accounting-packages</option><option value='c'>c</option><option value='c++'>c++</option><option value='Datastructures'>Datastructures</option><option value='ASP'>ASP</option><option value='C#'>C#</option><option value='Sql server'>Sql server</option><option value='VB'>VB</option><option value='.NET'>.NET</option><option value='Hardware & Networking'>Hardware & Networking</option><option value='Advance java'>Advance java</option><option value='Core java'>Core java</option><option value='J2EE'>J2EE</option><option value='Linux'>Linux</option><option value='MS-OFFICE'>MS-OFFICE</option><option value='Multi-Media'>Multi-Media</option><option value='Networking A+'>Networking A+</option><option value='Networking N+'>Networking N+</option><option value='Networking CCNA'>Networking CCNA</option><option value='Networking CCNP'>Networking CCNP</option><option value='Networking MCITP'>Networking MCITP</option><option value='Networking MCSE'>Networking MCSE</option><option value='Oracle Application Financial'>Oracle Application Financial</option><option value='Oracle SQL Database'>Oracle SQL Database</option><option value='Oracle Database'>Oracle Database</option><option value='Placement'>Placement</option><option value='SAP ABAP'>SAP ABAP</option><option value='SAP BASIC'>SAP BASIC</option><option value='SAP BIW'>SAP BIW</option><option value='SAP FICO'>SAP FICO</option><option value='SAP HCM'>SAP HCM</option><option value='SAP HR'>SAP HR</option><option value='SAP MM'>SAP MM</option><option value='SAP SD'>SAP SD</option><option value='Manual Testing'>Manual Testing</option><option value='QTP Testing'>QTP Testing</option><option value='Selinium Testing'>Selinium Testing</option><option value='Time Table'>Time Table</option><option value='HTML'>HTML</option><option value='CSS'>CSS</option><option value='Javascript'>Javascript</option><option value='JQuery'>JQuery</option><option value='MySQL'>MySQL</option><option value='PHP'>PHP</option><option value='New Batches'>New Batches</option></datalist>									</form>
+								</li>-->
+	                        </ul>
+	                    </nav>	                    <!-- **Nav - End**-->
+	               </div>
+	</div>
+	            </div>
+	        </header><!-- **Header - End** -->
+        </div>
+  
+        <!-- **Main - Starts** --> 
+		<div id="main">      
+        	<!-- **banner - Starts** -->
+            <div class="banner">
+                <!-- **Slider Section** -->
+                <div id="layerslider_9" class="ls-wp-container" style="width:100%;height:480px;max-width:1920px;margin:0 auto;margin-bottom: 0px;">
+                    
+                    <div class="ls-slide" data-ls="slidedelay:10000;transition2d:4;">
+                      <img src="images/sliders/blank.gif" data-src="images/education/hosting-bg2.jpg" class="ls-bg" alt="bg3" />
+                        <div class="ls-l" style="top:170px;left:-40px;font-weight:300; z-index:5;padding-left:0px;font-family:'Lato', 'Open Sans', sans-serif;font-size:44px;line-height:46px;color:#fff;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:-100;durationin:2000;delayin:2500;transformoriginin:left 50% 0;offsetxout:0;rotateyout:-90;transformoriginout:left 50% 0;">Google  </div>
+                        <div class="ls-l" style="top:310px;left:-40px;font-weight:normal; z-index:3;font-family:'Lato';font-size:16px;line-height:26px;color:#FF0;white-space: nowrap;" data-ls="offsetxin:-100;durationin:2000;delayin:4000;">Google Computer Science Institute is one of the premier education <br>
+institute with experience in the field of IT training</div>
+                        <div class="ls-l" style="top:250px;left:-40px;font-weight:700; z-index:3;font-family:'Lato';font-size:60px;line-height:26px;color:#EA78A9;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:50;durationin:2000;delayin:3000;">Computer Science Institute</div>
+                      <img class="ls-l" style="top:50px;left:700px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:300;durationin:1500;delayin:500;" src="images/sliders/blank.gif" data-src="images/computer_pc.png" alt="image">
+                    </div>
+                    
+                    <div class="ls-slide" data-ls="slidedelay:10000;transition2d:4;">
+                      <img src="images/sliders/blank.gif" data-src="images/education/hosting-bg.jpg" class="ls-bg" alt="bg3" />
+                        <div class="ls-l" style="top:170px;left:780px;font-weight:300; z-index:5;padding-left:0px;font-family:'Lato', 'Open Sans', sans-serif;font-size:44px;line-height:46px;color:#101017;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:-100;durationin:2000;delayin:2500;transformoriginin:left 50% 0;offsetxout:0;rotateyout:-90;transformoriginout:left 50% 0;">Google  </div>
+                        <div class="ls-l" style="top:290px;left:781px;font-weight:normal; z-index:3;font-family:'Lato';font-size:16px;line-height:26px;color:#a2abb8;white-space: nowrap;" data-ls="offsetxin:-100;durationin:2000;delayin:4000;">Google Computer Science Institute is one of the premier education <br>
+institute with experience in the field of IT training</div>
+                        <div class="ls-l" style="top:230px;left:780px;font-weight:700; z-index:3;font-family:'Lato';font-size:50px;line-height:26px;color:#EA78A9;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:50;durationin:2000;delayin:3000;">Computer Science Institute</div>
+                      <img class="ls-l" style="top:50px;left:30px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:300;durationin:1500;delayin:500;" src="images/sliders/blank.gif" data-src="images/sliders/browser.png" alt="image">
+                    </div>
+                    <div class="ls-slide" data-ls="slidedelay:10000;transition2d:4;">
+                        <img src="images/sliders/blank.gif" data-src="images/sliders/bg1.jpg" class="ls-bg" alt="bg1" />
+                        <div class="ls-l" style="top:196px;left:20px;font-weight:300; z-index:5;padding-left:0px;font-family:'Lato', 'Open Sans', sans-serif;font-size:30px;line-height:46px;color:#101017;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:200;durationin:2500;delayin:1500;transformoriginin:left 50% 0;offsetxout:0;rotateyout:-90;transformoriginout:left 50% 0;">Helping you at <span style="color:#21c2f8; font-weight:500">each stage of your </span> </div>
+                        <div class="ls-l" style="top:260px;left:22px;font-weight:600; z-index:3;font-family:'Lato';font-size:50px;line-height:26px;color:#101017;white-space: nowrap;" data-ls="offsetxin:-100;durationin:2000;delayin:2500;">career <span style="Color:#21c2f8;"> Life Cycle </span> </div>
+                        <img class="ls-l" style="top:23px;left:623px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:-100;delayin:500;" src="images/sliders/blank.gif" data-src="images/sliders/running-man.png" alt="image">
+                    </div>
+                    <div class="ls-slide" data-ls="slidedelay:10000;transition2d:4;">
+                        <img src="images/sliders/blank.gif" data-src="images/education/spa-bg.jpg" class="ls-bg" alt="bg2" />
+                        <div class="ls-l" style="top:100px;left:100px;font-weight:300;font-family:'Lato', 'Open Sans', sans-serif;font-size:25px;color:#101017;white-space: nowrap;" data-ls="delayin:1500;"><i class="fa fa-minus"></i>  Class Room Training</div>
+                        <img class="ls-l" style="top:0px;left:636px;white-space: nowrap;" data-ls="offsetxin:0;offsetyin:500;durationin:1800;" src="images/sliders/blank.gif" data-src="images/sliders/woman.png" alt="image">
+                        
+                        <div class="ls-l" style="top:130px;left:100px;font-weight:300;font-family:'Lato', 'Open Sans', sans-serif;font-size:25px;color:#101017;white-space: nowrap;" data-ls="delayin:2000;"><i class="fa fa-minus"></i> Academic Projects </div>
+                        
+                        <div class="ls-l" style="top:160px;left:100px;font-weight:300;font-family:'Lato', 'Open Sans', sans-serif;font-size:25px;color:#101017;white-space: nowrap;" data-ls="delayin:2500;"><i class="fa fa-minus"></i> Developing the Websites  </div>
+                        
+                        <div class="ls-l" style="top:190px;left:100px;font-weight:300;font-family:'Lato', 'Open Sans', sans-serif;font-size:25px;color:#101017;white-space: nowrap;" data-ls="delayin:3000;"><i class="fa fa-minus"></i>  Online Training</div>
+                        
+                        
+                         <div class="ls-l" style="top:220px;left:100px;font-weight:300;font-family:'Lato', 'Open Sans', sans-serif;font-size:25px;color:#101017;white-space: nowrap;" data-ls="delayin:3500;"><i class="fa fa-minus"></i>   Weekend Training</div>
+  
+  
+                          <div class="ls-l" style="top:250px;left:100px;font-weight:300;font-family:'Lato', 'Open Sans', sans-serif;font-size:25px;color:#101017;white-space: nowrap;" data-ls="delayin:4000;"><i class="fa fa-minus"></i>  Information Technologies</div>
+
+                    </div>
+                </div>
+            </div>            <!-- **banner - Ends** -->
+            
+        	<!-- **intro-text - starts** -->
+            <div class="intro-text type2">
+                <div class="container">
+                    <div class="column dt-sc-two-third first">
+                        <h4><strong>Google Computer Science Institute</strong></h4>
+                        <p>Google Computer Science Institute is one of the premier education institute with experience in the field of IT training. In a nutshell, Google Computer Science Institute creates skilled IT professionals through a variety of courses delivered using the latest teaching methodology.</p>
+                    </div>
+                    <div class="column dt-sc-one-third" style="margin-top:36px;">
+                        <a class="dt-sc-button large" href="#"> Call Us: <strong>+91 74810 48211</strong>  <span class="fa fa-angle-right"></span></a> 
+                    </div>
+                </div>
+            </div><!-- **intro-text - Ends** -->
+            <div class="full-width-section">
+            <!-- CHOOSE COURSES-->
+            <style>
+            .section-padding {
+					padding: 100px 0;
+				}
+				.group-title-index {
+    text-align: center;
+    margin-bottom: 60px;
+    position: relative;
+    z-index: 2;
+    color: #49575f;
+}.group-title-index .top-title {
+    text-transform: uppercase;
+    margin: 0 0 15px 0;
+    font-weight: 400;
+    font-size: 16px;
+}.group-title-index .center-title {
+    font-size: 30px;
+    font-weight: 900;
+    margin: 0 0 15px 0;
+    text-transform: uppercase;
+    line-height: 30px;
+}.group-title-index .bottom-titles {
+    position: relative;
+    display: inline-block;
+}.group-title-index .bottom-titles:before {
+    right: -32px;
+}
+.group-title-index .bottom-titles:after, .group-title-index .bottom-titles:before {
+    position: absolute;
+    content: '';
+    width: 22px;
+    height: 2px;
+    background-color: #21c2f8;
+    top: 50%;
+    margin-top: -5px;
+}.group-title-index .bottom-titles .bottom-icons {
+    margin: 0 auto;
+    font-size: 26px;
+    color: #21c2f8;
+}.group-title-index .bottom-titles:after {
+    left: -32px;
+}
+.choose-course .icon-circle {
+    position: relative;
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    margin: 0 auto
+}
+
+.choose-course .icon-circle .icon-background {
+    position: absolute;
+    bottom: 12px;
+    width: 146px;
+    left: 50%;
+    margin-left: -73px;
+    height: 146px;
+    border-radius: 50%;
+    background-color: #21c2f8;
+    color: #fff;
+    z-index: 11;
+    display: table;
+    transition: all .5s ease-in-out;
+    -webkit-transform-origin: 50% 0;
+    transform-origin: 50% 0
+}
+
+.choose-course .icon-circle .icon-background .icons-img {
+    text-align: center;
+    margin: 0 auto;
+    color: #fff;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 70px;
+    line-height: 1;
+    transition: all 0.4s ease
+}
+
+.choose-course .icon-circle .icon-background:after {
+    position: absolute;
+    content: '';
+    top: -2px;
+    left: -2px;
+    bottom: -2px;
+    right: -2px;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    transition: all 0.4s ease
+}
+
+.choose-course .icon-circle .info {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden
+}
+
+.choose-course .icon-circle .info .info-back {
+    opacity: 1;
+    border-radius: 50%;
+    background-color: #242c42;
+    width: 100%;
+    height: 100%;
+    display: table;
+    position: relative;
+    transition: all 0.3s ease
+}
+
+.choose-course .icon-circle .info .info-back:before {
+    position: absolute;
+    z-index: 20;
+    content: '';
+    top: -1px;
+    left: -1px;
+    bottom: -1px;
+    right: -1px;
+    border: 12px solid #21c2f8;
+    border-radius: 50%
+}
+
+.choose-course .icon-circle .info .info-back a {
+    color: #fff;
+    vertical-align: middle;
+    padding: 20px;
+    display: table-cell;
+    position: relative;
+    z-index: 2;
+    transition: all 0.7s ease
+}
+
+.choose-course .icon-circle:hover .icon-background {
+    background-color: #21c2f8;
+    bottom: 90%
+}
+
+.choose-course .icon-circle:hover .icon-background:after {
+    border: 2px solid #fff
+}
+
+.choose-course .icon-circle:hover .info .info-back:before {
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.6)
+}
+
+.choose-course .icon-circle:hover .info .info-back a {
+    transition-delay: 1s;
+    z-index: 21
+}
+
+.choose-course .name-course {
+    margin-top: 25px;
+    color: #49575f;
+    text-align: center;
+    font-size: 16px
+}
+
+.choose-course .name-course a, .choose-course .name-course p, .choose-course .name-course span {
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+    transition: all 0.2s linear
+}
+
+.choose-course .name-course i {
+    margin-left: 5px;
+    transition: all 0.2s linear
+}
+
+.choose-course .name-course:hover a, .choose-course .name-course:hover p, .choose-course .name-course:hover span, .choose-course .name-course:hover i {
+    color: #21c2f8
+}
+
+.choose-course .choose-course-wrapper .col-md-4.col-xs-6 {
+    margin-bottom: 70px
+}
+
+.choose-course .choose-course-wrapper .col-md-4.col-xs-6:nth-last-child(-n+3) {
+    margin-bottom: 0
+}.fa-long-arrow-right:before {
+    content: "\f178";
+}
+
+            </style>
+                <div class="section section-padding choose-course" style="background-color:#001;">
+                    <div class="container">
+                        <div class="group-title-index"><h4 class="top-title" style="color:#fff;">CHOOSE YOUR COURSE</h4>
+
+                            <h2 class="center-title" style="color:#fff;">GET THE WORLD CLASS & VERIFIED COURSE</h2>
+
+                            <div class="bottom-titles"><i class="bottom-icons icon-a-1-01-01"></i></div>
+                        </div>
+                        <div class="choose-course-wrapper row">
+                            <div class="col-md-4 col-xs-6">
+                                <div class="item-course item-1">
+                                    <div class="icon-circle">
+                                        <div class="icon-background"><i class="icons-img icon-globe"></i></div>
+                                        <div class="info">
+                                            <div class="info-back"><a href="courses.html">HTML , C & C++, Java, Python</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="name-course"><a href="courses.html">Languages</a><i class="fa fa-long-arrow-right"></i></div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-xs-6">
+                                <div class="item-course item-2">
+                                    <div class="icon-circle">
+                                        <div class="icon-background"><i class="icons-img fa fa-database"></i></div>
+                                        <div class="info">
+                                            <div class="info-back"><a href="courses.html">ADCA, DCA, ADCA+</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="name-course"><a href="courses.html">Softwares</a><i class="fa fa-long-arrow-right"></i></div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-xs-6">
+                                <div class="item-course item-3">
+                                    <div class="icon-circle">
+                                        <div class="icon-background"><i class="icons-img icon-computer_network"></i></div>
+                                        <div class="info">
+                                            <div class="info-back"><a href="courses.html">Social Media, E-Mail, Online Application, E-Commerce</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="name-course"><a href="courses.html">Internet</a><i class="fa fa-long-arrow-right"></i></div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-xs-6">
+                                <div class="item-course item-4">
+                                    <div class="icon-circle">
+                                        <div class="icon-background"><i class="icons-img icon-photocamera_1"></i></div>
+                                        <div class="info">
+                                            <div class="info-back"><a href="courses.html">Photoshop, CorelDraw, Page Maker</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="name-course"><a href="courses.html">Graphics / Multimedia</a><i class="fa fa-long-arrow-right"></i></div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-xs-6">
+                                <div class="item-course item-5">
+                                    <div class="icon-circle">
+                                        <div class="icon-background"><i class="icons-img icon-credit_card"></i></div>
+                                        <div class="info">
+                                            <div class="info-back"><a href="courses.html">Tally Erp 9</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="name-course"><a href="courses.html">Accounting</a><i class="fa fa-long-arrow-right"></i></div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-xs-6">
+                                <div class="item-course item-6">
+                                    <div class="icon-circle">
+                                        <div class="icon-background"><i class="icons-img icon-chat_bubbles"></i></div>
+                                        <div class="info">
+                                            <div class="info-back"><a href="courses.html">Data Structure</a></div>
+                                        </div>
+                                    </div>
+                                    <div class="name-course"><a href="courses.html">Special</a><i class="fa fa-long-arrow-right"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+			<!-- **Full-width-section - Starts** -->       
+			<div class="full-width-section">
+             <div class="dt-sc-margin50"></div>
+				<div class="container">
+                    <div class="column dt-sc-one-third first">
+				        <div class="dt-sc-ico-content type7">
+				            <div class="icon animate" data-animation="fadeInRight" data-delay="100">
+                                <img src="images/cdt_logo_icon_0.png" alt="admin"/>
+				            </div>
+				            <h4> C, C++</h4>
+				            <p>C is a powerful system programming language, and C++ is an excellent general purpose programming language. </p>
+				        </div>
+				    </div>
+                    
+				    <div class="column dt-sc-one-third">
+				        <div class="dt-sc-ico-content type7">
+				            <div class="icon animate" data-animation="fadeInUp" data-delay="100">
+                                <img src="images/java.png" alt="tablet"/>
+				            </div>
+				            <h4>Java, PHP, Python</h4>
+				            <p>Java is the most popular programming language & is the language of choice for Android programming. </p>
+				        </div>
+				    </div>
+                    
+				    <div class="column dt-sc-one-third">
+				        <div class="dt-sc-ico-content type7">
+				            <div class="icon animate"  data-animation="fadeInLeft" data-delay="100">
+                                <img src="images/setting-icon.png" alt="plane"/>
+				            </div>
+				            <h4>  Testing Tools, Linux </h4>
+				            <p>Test Management is a series of planning, execution, monitoring and control activities that help achieve project goals. </p>
+				        </div>
+				    </div>
+                    <div class="dt-sc-margin30"></div>
+				    <div class="column dt-sc-one-third first">
+				        <div class="dt-sc-ico-content type7">
+				            <div class="icon animate"  data-animation="fadeInRight" data-delay="100">
+                                <img src="images/finance-accounting.png" alt="flag"/>
+				            </div>
+				            <h4>  Accounting Packages </h4>
+				            <p>This course includes tons of interactive exercises to help you create accounts. Make sure to take them. </p>
+				        </div>
+				    </div>
+                    
+                    <div class="column dt-sc-one-third">
+				        <div class="dt-sc-ico-content type7">
+				            <div class="icon animate" data-animation="fadeInUp" data-delay="100">
+                                <img src="images/Web-Design-Icon.png" alt="flag"/>
+				            </div>
+				            <h4> Web Development & Design  </h4>
+				            <p>Web design is the skill of creating presentations of content that is delivered to an end-user through the World Wide Web </p>
+				        </div>
+				    </div>
+                    
+                    <div class="column dt-sc-one-third">
+				        <div class="dt-sc-ico-content type7">
+				            <div class="icon animate" data-animation="fadeInLeft" data-delay="100">
+                                <img src="images/cloud-computing.png" alt="flag"/>
+				            </div>
+				            <h4>Hardware & Networking</h4>
+				            <p> This course deals with the basics of Personal Computers like identifying and assembling various components of PCs etc.</p>
+				        </div>
+				    </div>
+                    
+                </div>
+            <div class="dt-sc-margin30"></div>
+            </div><!-- **Full-width-section - Ends** -->
+                           
+    <style>
+	.why-choose-us {
+    background-color: #242c42;
+    color: #fff;
+	}
+	.why-choose-us .why-choose-us-wrapper-top {
+    position: relative;
+}
+.why-choose-us .why-choose-us-wrapper-top .why-choose-us-wrapper {
+    padding: 60px 0;
+    padding-right: 25%;
+}
+.why-choose-us .why-choose-us-wrapper-top .why-choose-us-wrappers {
+    padding: 60px 0;
+    padding-right: 25%;
+}
+.why-choose-us .why-choose-us-wrapper {
+    text-align: left;
+    width: 100%;
+}
+.why-choose-us .why-choose-us-wrappers {
+    text-align: left;
+    width: 100%;
+}
+.why-choose-us .why-choose-us-wrapper-top .why-choose-us-wrapper p {
+    color: #d1d8eb;
+    line-height: 25px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+.why-choose-us .why-choose-us-wrapper-top .why-choose-us-wrappers p {
+    color: #d1d8eb;
+    line-height: 25px;
+    margin-bottom: 30px;
+    font-size: 16px;
+}
+.why-choose-us .btn.btn-green-2 {
+    line-height: 40px;
+    background-color: transparent;
+}
+.why-choose-us .btn {
+    border: 0;
+    border-radius: 0;
+    padding: 0 25px;
+    background: transparent;
+    text-align: center;
+    line-height: 40px;
+    text-transform: uppercase;
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    transition: all 0.2s ease;
+}
+.why-choose-us .why-choose-us-wrapper-top .background-girl-1 {
+    position: absolute;
+    width: 23%;
+    left: 75%;
+    bottom: 0;
+}
+.why-choose-us .why-choose-us-wrapper-top .background-dir {
+    position: absolute;
+    width: 23%;
+    left: 75%;
+    bottom: 0;
+}
+.why-choose-us .why-choose-us-wrapper-bottom {
+    background-image: url(images/background-why-choose-us.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    color: #fff;
+    position: relative;
+    z-index: 2;
+}
+
+.why-choose-us .why-choose-us-wrapper-bottom .why-choose-us-wrapper {
+    padding: 60px 0;
+}
+
+.why-choose-us .why-choose-us-wrapper {
+    text-align: left;
+    width: 100%;
+}
+.why-choose-us .why-choose-us-wrapper-bottom .customs-row {
+    display: inline;
+}
+
+.title-2 {
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+.customs-row {
+    display: block;
+    width: 100%;
+    clear: both;
+}
+.section-icon {
+    margin: 22px 0;
+    display: table;
+}
+.section-icon i {
+    font-size: 36px;
+    color: #86bc42;
+    display: table-cell;
+    vertical-align: top;
+}
+.section-icon p, .section-icon a, .section-icon span {
+    font-size: 16px;
+    display: inline-block;
+    margin: 0;
+    line-height: 24px;
+    padding-left: 25px;
+    display: table-cell;
+    vertical-align: middle;
+}
+.background-opacity {
+    position: relative;
+}
+.background-opacity:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(10, 15, 28, 0.7);
+}
+
+.rows:before
+{
+    display: table;
+    content: " ";
+}
+.rows:after
+{
+clear: both;
+    display: table;
+    content: " ";
+	}
+.rows {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.why-choose-us .why-choose-us-wrapper-top .why-choose-us-wrappers{
+padding-left: 30%; padding-right:0px;
+}
+.why-choose-us .why-choose-us-wrapper-top .background-dir img{
+border-radius:100%;
+border:solid 5px #f00;
+}
+@media screen and (max-width: 767px) {
+.why-choose-us .why-choose-us-wrapper-top .why-choose-us-wrapper {
+        padding-right: 35%
+    }
+
+    .why-choose-us .why-choose-us-wrapper-top .background-girl-1 {
+        width: 30%;
+        left: 65%
+    }
+	.why-choose-us .why-choose-us-wrapper-top .background-dir {
+        width: 30%;
+        left: 65%
+    }
+
+    .why-choose-us .why-choose-us-wrapper-bottom .customs-row {
+        display: block
+    }
+.why-choose-us .why-choose-us-wrapper-top  .why-choose-us-wrappers{
+padding-left: 30%; padding-right:0px;
+}
+.why-choose-us .why-choose-us-wrapper-top .background-dir img{
+border-radius:100%;
+border:solid 5px #f00;
+}
+}
+@media screen and (max-width: 480px) {
+.why-choose-us .why-choose-us-wrapper-top .why-choose-us-wrapper {
+        padding-right: 0;
+		padding: 30px 0;
+    }
+
+    .why-choose-us .why-choose-us-wrapper-top .background-girl-1 {
+        display: none
+    }
+	.why-choose-us .why-choose-us-wrapper-top .background-dir {
+        display:inline;
+    position: relative;
+    width: 100px;
+    left: 0%;
+    bottom: 0;
+}
+.why-choose-us .why-choose-us-wrapper-top img{
+border-radius: 0%;
+    width: 100px;
+    border: solid 5px #f00;
+}
+
+    .why-choose-us .why-choose-us-wrapper-bottom .section-icon {
+        width: 100%;
+        margin: 15px 0
+    }
+
+    .why-choose-us .why-choose-us-wrapper-bottom .section-icon i {
+        width: 50px
+    }
+	.why-choose-us .why-choose-us-wrapper-top .why-choose-us-wrappers{
+			padding: 0px 0; padding-right:0px;
+	}
+
+}
+}
+	</style>
+	<div class="full-width-section" style="background-color:#f68318;">
+    	<div class="section why-choose-us" style="background-color:#f68318;">
+                    <div class="why-choose-us-wrapper-top">
+                        <div class="container">
+
+                            <div data-wow-delay="0.2s" data-wow-duration="1.2s" class="background-dir wow fadeInLeft" style="visibility: visible; animation-duration: 1.2s; animation-delay: 0.2s; left:0px; animation-name:fadeInLeft;bottom: 20px;width: 22%;"><img src="images/Director.jpeg" alt="" class="img-responsive" ></div>                            <div class="why-choose-us-wrappers" ><h2 class="title-2" style="color:#fff;">Mr. Sandeep Kumar </h2>
+                            <h3 class="title-2" style="color:#f00; font-size:16px;">Director (Google Computer Science Institute)</h3>
+       <p> Professional education is considered as investment in generating future resource by converting youth in dynamic force for the economical development of a country. Our total focus will rest on developing new techniques to make the education more usefull and eassy to understand by putting the last efforts.</p>
+                            </div>
+
+                        </div>
+                    </div>
+                    
+                </div>
+    </div>    
+    <div  class="full-width-section">
+    <div class="section why-choose-us">
+                    <div class="why-choose-us-wrapper-top">
+                        <div class="container">
+                            <div class="why-choose-us-wrapper"><h2 class="title-2" style="color:#fff;">Why GOOGLE COMPUTER SCIENCE INSTITUTE ?</h2>
+
+                                <p> We are the Leading Training Institute in Hazaribag. We provide computer courses from basics to advance level. Our Institute is a IT computer training institute that provides job oriented IT courses across India. It also provides IT infrastructure management courses and solutions. </p>
+                                
+                            </div>
+                            <div data-wow-delay="0.2s" data-wow-duration="1.2s" class="background-girl-1 wow fadeInUp" style="visibility: visible; animation-duration: 1.2s; animation-delay: 0.2s; animation-name: fadeInUp;"><img src="images/girl-1.png" alt="" class="img-responsive"></div>
+                        </div>
+                    </div>
+                    <div class="why-choose-us-wrapper-bottom background-opacity">
+                        <div class="container">
+                            <div data-wow-delay="0.4s" data-wow-duration="1s" class="rows why-choose-us-wrapper wow zoomIn" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: zoomIn;">
+                                <div class="customs-row">
+                                    <div class="col-sm-4 col-xs-6 section-icon"><i class="fa fa-pencil-square-o"></i>
+
+                                        <p> Over 100 Assesment Online</p></div>
+                                    <div class="col-sm-4 col-xs-6 section-icon"><i class="fa fa-compress"></i>
+
+                                        <p> Refund if not Satisfied</p></div>
+                                </div>
+                                <div class="customs-row">
+                                    <div class="col-sm-4 col-xs-6 section-icon"><i class="fa fa-paper-plane"></i>
+
+                                        <p> Easy to learning everytime, everywhere</p></div>
+                                    <div class="col-sm-4 col-xs-6 section-icon"><i class="fa fa-folder-open"></i>
+
+                                        <p> Over 300 Ebook a-vailable</p></div>
+                                </div>
+                                <div class="customs-row">
+                                    <div class="col-sm-4 col-xs-6 section-icon"><i class="fa fa-external-link"></i>
+
+                                        <p> Free updates &amp; support</p></div>
+                                    <div class="col-sm-4 col-xs-6 section-icon"><i class="fa fa-stumbleupon-circle"></i>
+
+                                        <p> Flexible payment methods</p></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    </div>
+<style>
+.section-title {
+font-size: 28px;
+margin-bottom: 20px;
+padding-bottom: 20px;
+font-weight: 400;
+display: inline-block;
+position: relative;
+}
+.section-title:after,
+.section-title:before {
+content: '';
+position: absolute;
+bottom: 0;
+}
+.section-title:after {
+height: 2px;
+background-color: rgba(252, 92, 15, 0.46);
+left: 25%;
+right: 25%;
+}
+
+.section-title:before {
+width: 15px;
+height: 15px;
+border: 3px solid #fff;
+background-color: #fc5c0f;
+left: 50%;
+transform: translatex(-50%);
+bottom: -6px;
+z-index: 9;
+border-radius: 50%;
+}
+
+/* CAROUSEL STARTS */
+.customer-feedback .owl-item img {
+width: 85px;
+height: 85px;
+}
+
+.feedback-slider-item {
+position: relative;
+padding: 60px;
+margin-top: -40px;
+}
+
+.customer-name {
+margin-top: 15px;
+margin-bottom: 25px;
+font-size: 20px;
+font-weight: 500;
+}
+
+.feedback-slider-item p {
+line-height: 1.875;
+}
+
+.customer-rating {
+background-color: #eee;
+border: 3px solid #fff;
+color: rgba(1, 1, 1, 0.702);
+font-weight: 700;
+border-radius: 50%;
+position: absolute;
+width: 47px;
+height: 47px;
+line-height: 44px;
+font-size: 15px;
+right: 0;
+top: 77px;
+text-indent: -3px;
+}
+
+.thumb-prev .customer-rating {
+top: -20px;
+left: 0;
+right: auto;
+}
+
+.thumb-next .customer-rating {
+top: -20px;
+right: 0;
+}
+
+.customer-rating i {
+color: rgb(251, 90, 13);
+position: absolute;
+top: 10px;
+right: 5px;
+font-weight: 600;
+font-size: 12px;
+}
+
+/* GREY BACKGROUND COLOR OF THE ACTIVE SLIDER */
+.feedback-slider-item:after {
+content: '';
+position: absolute;
+left: 20px;
+right: 20px;
+bottom: 0;
+top: 103px;
+background-color: #f6f6f6;
+border: 1px solid rgba(251, 90, 13, .1);
+border-radius: 10px;
+z-index: -1;
+}
+
+.thumb-prev,
+.thumb-next {
+position: absolute;
+z-index: 99;
+top: 45%;
+width: 98px;
+height: 98px;
+left: -90px;
+cursor: pointer;
+-webkit-transition: all .3s;
+transition: all .3s;
+}
+
+.thumb-next {
+left: auto;
+right: -90px;
+}
+
+.feedback-slider-thumb img {
+width: 100%;
+height: 100%;
+border-radius: 50%;
+overflow: hidden;
+}
+
+.feedback-slider-thumb:hover {
+opacity: .8;
+-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+}
+
+.customer-feedback .owl-nav [class*="owl-"] {
+position: relative;
+display: inline-block;
+bottom: 45px;
+transition: all .2s ease-in;
+}
+
+.customer-feedback .owl-nav i {
+background-color: transparent;
+color: rgb(251, 90, 13);
+font-size: 25px;
+}
+
+.customer-feedback .owl-prev {
+left: -15px;
+}
+
+.customer-feedback .owl-prev:hover {
+left: -20px;
+}
+
+.customer-feedback .owl-next {
+right: -15px;
+}
+
+.customer-feedback .owl-next:hover {
+right: -20px;
+}
+
+/* DOTS */
+.customer-feedback .owl-dots {
+position: absolute;
+left: 50%;
+transform: translateX(-50%);
+bottom: 35px;
+}
+.customer-feedback .owl-dot {
+display: inline-block;
+}
+
+.customer-feedback .owl-dots .owl-dot span {
+width: 11px;
+height: 11px;
+margin: 0 5px;
+background: #fff;
+border: 1px solid rgb(251, 90, 13);
+display: block;
+-webkit-backface-visibility: visible;
+-webkit-transition: all 200ms ease;
+transition: all 200ms ease;
+border-radius: 50%;
+}
+
+.customer-feedback .owl-dots .owl-dot.active span {
+background-color: rgb(251, 90, 13);
+}
+
+/* RESPONSIVE */
+@media screen and (max-width: 767px) {
+.feedback-slider-item:after {
+left: 30px;
+right: 30px;
+}
+.customer-feedback .owl-nav [class*="owl-"] {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+margin-top: 45px;
+bottom: auto;
+}
+.customer-feedback .owl-prev {
+left: 0;
+}
+.customer-feedback .owl-next {
+right: 0;
+}
+
+}
+
+</style>
+<div class="full-width-section" style="background-color:#001;">
+<section style="padding:20px 0px;">
+<div class="customer-feedback">
+<div class="container text-center">
+<div class="row">
+<div class="col-sm-offset-2 col-sm-8">
+<div>
+<h2 class="section-title" style="color:#fff;">What Students Say</h2>
+</div>
+</div><!-- /End col -->
+</div><!-- /End row -->
+
+<div class="row">
+<div class="col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+<div class="owl-carousel feedback-slider">
+<!-- slider item -->
+<div class="feedback-slider-item">
+<img src="./soft/images/students/AbhiITech1515344211155.jpg" class="center-block img-circle" alt="Customer Feedback">
+<h3 class="customer-name">Nagendra Prasad</h3>
+<p>						  Google Computer Science Institute, Babugaon, Hazaribag offers the best coaching in the field of computers. The faculties are very helpful and help clear the concepts in a simple manner.</p>
+<span class="light-bg customer-rating" data-rating="5">
+1<i class="fa fa-star"></i>
+</span>
+</div>
+<!-- /slider item -->					
+					
+					<!-- slider item -->
+<div class="feedback-slider-item">
+<img src="./soft/images/students/AbhiITech1515344609550.jpg" class="center-block img-circle" alt="Customer Feedback">
+<h3 class="customer-name">Ritesh Verma</h3>
+<p>						  I always had issues in understanding computer methodology. Google Computer Science Institute, Babugaon, Hazaribag made it seem easier than I thought. They have the best methodology and learning concepts.</p>
+<span class="light-bg customer-rating" data-rating="5">
+2<i class="fa fa-star"></i>
+</span>
+</div>
+<!-- /slider item -->					
+					
+					<!-- slider item -->
+<div class="feedback-slider-item">
+<img src="./soft/images/students/AbhiITech151534566417.jpg" class="center-block img-circle" alt="Customer Feedback">
+<h3 class="customer-name">Satyendra Giri</h3>
+<p>						  Many thanks to the wonderful faculty of Google Computer Science Institute who helped me a lot. I would like to say that without Google  Computer Science Institute, Babugaon, Hazaribag, I would not be where I am now.</p>
+<span class="light-bg customer-rating" data-rating="5">
+3<i class="fa fa-star"></i>
+</span>
+</div>
+<!-- /slider item -->					
+					
+					
+</div><!-- /End feedback-slider -->
+<!-- side thumbnail -->
+<div class="feedback-slider-thumb hidden-xs">
+<div class="thumb-prev">
+<span>
+<img src="images/prev_images.png" alt="Pic">
+</span>
+
+</div>
+
+<div class="thumb-next">
+<span>
+<img src="images/next_images.png" alt="Pic">
+</span>
+
+</div>
+</div>
+<!-- /side thumbnail -->
+
+</div><!-- /End col -->
+</div><!-- /End row -->
+</div><!-- /End container -->
+</div><!-- /End customer-feedback -->
+</section>
+        </div>
+    <style>
+    .faculty {
+    width: 100%;
+    height: auto;
+    color: black;
+    text-align: center;
+    padding: 50px 0;
+	border-top: 2px solid #ED1C24;
+}
+ .faculty .row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+ .faculty .rounded {
+    border-radius: .25rem!important;
+}
+ .faculty .img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+.online-text {
+    text-align: left;
+}
+.online-text i {
+    color: red;
+    padding: 10px;
+}
+.fa, .fas {
+    font-weight: 900;
+}
+.faculty .media {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.faculty p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.faculty  h2,.faculty  h3 {
+    font-size: 2rem;
+	line-height: 1.2;
+	font-weight: bold;
+	margin-bottom: .5rem;
+}
+.faculty p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+}
+.media-body {
+    -ms-flex: 1;
+    flex: 1;
+}
+    </style>
+    <div class="full-width-section">
+    <div class="faculty">
+  <div class="container">
+  <h3>ONLINE CLASSES</h3>
+  <p>Distance and online courses. Our qualifications<br> range from certificates,  diplomas and short courses to undergraduate and postgraduate degrees. <br> <br>  </p>
+
+  <div class="row">
+    <div class="col-md-6 col-sm-12">
+      <img src="images/on.jpg" alt="IMAGes" class="img-fluid rounded">
+    </div>
+    <div class="col-md-6 col-sm-12 online-text">
+      <h2>How Online Study Possible!</h2>
+      <div class="media"><i class="fa fa-check" aria-hidden="true"></i>
+        <div class="media-body"><p>You can do study from your home as well.</p></div>
+      </div>
+      <div class="media"><i class="fa fa-check" aria-hidden="true"></i>
+        <div class="media-body"><p>Need a Laptop or Desktop or Any Smart Phone.</p></div>
+      </div>
+      <div class="media"><i class="fa fa-check" aria-hidden="true"></i>
+        <div class="media-body"><p>Need a good quality Internet Connection. </p></div>
+      </div>
+
+      <div class="media"><i class="fa fa-check" aria-hidden="true"></i>
+        <div class="media-body"><p>Use Link given from Institute.</p></div>
+      </div>
+      <div class="media"><i class="fa fa-check" aria-hidden="true"></i>
+        <div class="media-body"><p>Using Link You can join our online classes.</p></div>
+      </div><div class="media"><i class="fa fa-check" aria-hidden="true"></i>
+        <div class="media-body"><p>For More visite us.</p></div>
+      </div>
+      
+    </div>
+  </div>
+  </div>
+</div>
+    </div> 
+    <style>
+.best-staff .container {
+    overflow: hidden;
+    margin: 0 auto;
+    max-width: 1140px
+}
+
+.best-staff .best-staff-wrapper {
+    width: 100%;
+    height: auto
+}
+
+.best-staff .group-title-index {
+    color: #fff
+}
+
+.best-staff .group-btn-slider .btn-prev {
+    top: 60%
+}
+
+.best-staff .group-btn-slider .btn-next {
+    top: 60%
+}
+    .best-staff {
+    background-image: url(images/background-best-staff.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    color: #fff;
+    background-size: cover;
+}
+.section-padding {
+    padding: 100px 0;
+}
+.background-opacity {
+    position: relative;
+}.background-opacity:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(10, 15, 28, 0.7);
+}
+.group-title-index {
+    text-align: center;
+    margin-bottom: 60px;
+    position: relative;
+    z-index: 2;
+    color: #49575f;
+}
+.group-title-index .top-title {
+    text-transform: uppercase;
+    margin: 0 0 15px 0;
+    font-weight: 400;
+    font-size: 16px;
+}
+.group-title-index .center-title {
+    font-size: 30px;
+    font-weight: 900;
+    margin: 0 0 15px 0;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+.group-title-index .bottom-title {
+    position: relative;
+    display: inline-block;
+}
+.group-title-index .bottom-title:before {
+    right: -32px;
+}
+.group-title-index .bottom-title:after, .group-title-index .bottom-title:before {
+    position: absolute;
+    content: '';
+    width: 22px;
+    height: 2px;
+    background-color: #86bc42;
+    top: 50%;
+    margin-top: -5px;
+}
+.group-title-index .bottom-title .bottom-icon {
+    margin: 0 auto;
+    font-size: 26px;
+    color: #86bc42;
+}
+.icon-icon-05:before {
+    content: '\0045';
+}
+[class*='icon-']:before {
+    display: inline-block;
+    font-family: 'Glyphter';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.group-title-index .bottom-title:after {
+    left: -32px;
+}
+.group-title-index .bottom-title:after, .group-title-index .bottom-title:before {
+    position: absolute;
+    content: '';
+    width: 22px;
+    height: 2px;
+    background-color: #86bc42;
+    top: 50%;
+    margin-top: -5px;
+}
+.staff-item .staff-info {
+    text-align: center;
+    overflow: hidden;
+}
+.staff-item .staff-info .staff-avatar {
+    display: block;
+}
+.staff-item .staff-info .staff-avatar img {
+    border-radius: 48%;
+    width: 100%;
+    max-width: 120px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+    transition: all 0.8s ease;
+}
+.staff-item .staff-item-wrapper {
+    width: 100%;
+    height: 235px;
+    overflow: hidden;
+    transition: all 0.8s ease;
+}
+.staff-item {
+    cursor: pointer;
+    background-color: #fff;
+    padding: 30px;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.8s ease;
+}
+.staff-item .staff-info .staff-name {
+    font-size: 18px;
+    color: #49575f;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.staff-item .staff-name, .staff-item .staff-job, .staff-item .staff-socials a {
+    transition: all 0.5s ease;
+}
+.staff-item .staff-info .staff-job {
+    color: #21c2f8;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+}
+.staff-item .staff-info .staff-desctiption {
+    display: none;
+    text-align: justify;
+    font-size: 13px;
+    height: 72px;
+    overflow: hidden;
+    transition: all 0.8s ease;
+}
+
+.group-btn-slider .btn-prev:hover, .group-btn-slider .btn-next:hover {
+    opacity: 1;
+}
+.group-btn-slider .btn-prev {
+    left: 3%;
+}
+.group-btn-slider .btn-prev, .group-btn-slider .btn-next {
+    position: absolute;
+    font-size: 24px;
+    border: 2px solid;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    line-height: 53px;
+    border-radius: 50%;
+    opacity: 0.3;
+    top: 50%;
+    margin-top: -25px;
+    padding: 0;
+    transition: all 0.3s linear;
+    cursor: pointer;
+    z-index: 10;
+}
+.group-btn-slider .btn-next {
+    right: 3%;
+}
+.staff-item:hover .staff-info .staff-name {
+	text-decoration:none;
+    font-weight: bold;
+}
+@media screen and (max-width: 1024px) {
+.best-staff .container {
+        max-width: 860px
+    }
+}
+@media screen and (max-width: 768px) {
+ .best-staff {
+        padding-bottom: 150px
+    }
+
+    .best-staff .group-btn-slider {
+        position: relative;
+        top: 80px
+    }
+
+    .best-staff .group-btn-slider .btn-prev, .best-staff .group-btn-slider .btn-next {
+        top: auto;
+        bottom: 20px;
+        width: 40px;
+        height: 40px;
+        line-height: 32px
+    }
+
+    .best-staff .group-btn-slider .btn-prev {
+        left: 50%;
+        margin-left: -50px
+    }
+
+    .best-staff .group-btn-slider .btn-next {
+        right: 50%;
+        margin-right: -50px
+    }
+}
+    </style>
+    <div class="full-width-section">
+                    <div class="section section-padding background-opacity best-staff">
+                    <div class="container">
+                        <div class="group-title-index"><h4 class="top-title" style="color:#fff;">touch them if you want</h4>
+
+                            <h2 class="center-title" style="color:#fff;">learn from the best</h2>
+
+                            <div class="bottom-title"><i class="bottom-icon icon-icon-05"></i></div>
+                        </div>
+                        <div class="best-staff-wrapper">
+                            <div class="best-staff-content">
+                               
+                                                   <div class="staff-item">
+                                    <div class="staff-item-wrapper">
+                                        <div class="staff-info"><a href="#" class="staff-avatar"><img src="soft/images/staff/AbhiITech1604654440254.jpg" alt="" class="img-responsive"/></a><a href="#" class="staff-name">Sundar Kumar</a>
+
+                                            <div class="staff-job">Software Trainer</div>
+                                            <div class="staff-desctiption"></div>
+                                        </div>
+                                    </div>
+                                    </div>
+					                    <div class="staff-item">
+                                    <div class="staff-item-wrapper">
+                                        <div class="staff-info"><a href="#" class="staff-avatar"><img src="soft/images/staff/AbhiITech1604654485340.jpg" alt="" class="img-responsive"/></a><a href="#" class="staff-name">Prachi Sharma</a>
+
+                                            <div class="staff-job">Head Counselor</div>
+                                            <div class="staff-desctiption"></div>
+                                        </div>
+                                    </div>
+                                    </div>
+					                            </div>
+                        </div>
+                    </div>
+                    <div class="group-btn-slider">
+                        <div class="btn-prev"><i class="fa fa-angle-left"></i></div>
+                        <div class="btn-next"><i class="fa fa-angle-right"></i></div>
+                    </div>
+                </div>
+
+    </div>       
+            <!-- **Full-width-section - Starts** -->
+          
+             <!-- **Full-width-section - Ends** -->
+		
+        </div><!-- **Main - Ends** --> 
+        <!-- **Footer** -->
+        <footer id="footer">
+        	<div class="footer-widgets-wrapper">
+                <div class="container">
+                
+                    <div class="column dt-sc-one-fourth first">
+                        <aside class="widget widget_text">
+                            <h3 class="widget-title">Contact  <span class="wlast"> Us </span><span class="small-line"> </span></h3> 
+                             <p> <i class="fa fa-phone"></i> <span>Phone:</span> +91 74810 48211 </p>
+                            <p> <i class="fa fa-mobile" style="margin-left:3px;"></i> <span>Mobile:</span> 7481048211 </p>
+                            <p> <i class="fa fa-envelope"></i> <span> Email:</span> <a href="mailto:sandeepkumarhzb43@gmail.com">sandeepkumarhzb43@gmail.com  </a> </p>
+                            <p> <i class="fa fa-globe"></i> <span style="margin-right:18px">Web:</span> <a href="#">http://www.gcsinstitute.com </a> </p>
+                            <p align="justify"> <i class="fa fa-location-arrow" style="margin-bottom:50px;"></i> <span> Shiv Mandir Road, Near Bachat Bazar, Babugaon, Korra, Hazaribagh - 825301</span> </p>
+                                                
+							</aside>
+                    </div>
+                    
+                    <div class="column dt-sc-one-fourth">
+                        <aside class="widget widget_popular_entries">
+                            <h3 class="widget-title">Popular <span class="wlast">Links</span><span class="small-line"> </span></h3>
+                            <div class="recent-property-widget">
+                                <ul>
+         
+                        <li><a href="#" class="">C/C++</a></li>
+                        <li><a href="#" class="">Java</a></li>
+                        <li><a href="#" class="">PYTHON</a></li>
+                        <li><a href="#">ADCA</a></li>
+                        <li><a href="#">ADCA+</a></li>
+                        <li><a href="#">DCA</a></li>
+                        </ul>
+                            </div>
+                        </aside>
+                    </div>   
+                    
+                    <div class="column dt-sc-one-fourth">
+                        <aside class="widget widget_tweetbox">
+                            <h3 class="widget-title">Quick<span class="wlast"> Links</span><span class="small-line"> </span></h3>
+                            <div class="recent-property-widget">
+                                <ul>
+         
+                        <li><a href="#">Class Room Training</a></li>
+						<li><a href="#">Online Training</a></li>
+						<li><a href="#">Academic Projects</a></li>
+						<li><a href="#">Developing the Websites</a></li>
+						<li><a href="#">Materials</a></li>
+						<li><a href="#">Softwares</a></li>
+						<li><a href="#">Certificates</a></li>
+                                                             
+                        </ul>
+                            </div>
+    		
+                        </aside>
+                    </div>
+                
+                    <div class="column dt-sc-one-fourth">
+                        <aside class="widget mailchimp">
+                            <h3 class="widget-title">Online<span class="wlast"> Enquiry</span><span class="small-line"> </span></h3>
+                            
+                            <form name="frmcontact" action="php/send.php" method="post" class="dt-sc-contact-form" novalidate>
+                                <p> <span> <input type="text" required name="your-name" placeholder="Name*"> </span> </p>
+                                <p> <span> <input type="email" required name="email" placeholder="Email*"> </span> </p>
+                                <p> <span> <input type="text" name="phone" placeholder="Phone*"> </span> </p>
+                                <p> <textarea required name="your-meassage" placeholder="Message*"></textarea> </p>
+                                
+                                <p> <input type="submit" name="submit" value="Send"> </p>
+                            </form>
+                            
+                            
+                            
+                        </aside>
+                    </div>
+                    
+                </div>
+        	</div><!-- **footer-widgets-wrapper - End** -->
+            
+            <div class="copyright">
+            	<div class="container">
+                	<p> © 2020-2022 <a href="http://www.abhiitech.com">Abhi I-Tech</a></p>
+                    <ul class="footer-links">
+                    	<li><a href="index.php">Home</a>/</li>
+                        <li><a href="about-us.php">About</a>/</li>
+                        <li><a href="contact.php">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+        </footer><!-- **Footer - End** -->
+        
+    </div><!-- **inner-wrapper - End** -->
+    
+</div><!-- **Wrapper - End** -->
+
+	<!-- **jQuery** -->  
+<script src="js/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="js/jquery-migrate.min.js"></script> 
+    <script src="js/bootstrap.min.js"></script> 
+	
+    <script src="js/preloader.js" type="text/javascript"></script>
+    <script src="js/pace.min.js" type="text/javascript"></script>
+    
+    <script src="js/jquery.tabs.min.js"></script>
+    <script src="js/jquery.tipTip.minified.js"></script>
+	
+	<script src="js/jquery-easing-1.3.js" type="text/javascript"></script>
+    
+    <script src="js/jquery.carouFredSel-6.2.1-packed.js" type="text/javascript"></script>
+    
+	<script src="js/jquery.parallax-1.1.3.js" type="text/javascript"></script>
+    <script src="js/jquery.inview.js" type="text/javascript"></script>
+	
+	<script src="js/jquery.nav.js" type="text/javascript"></script>
+    <script src="js/owl.carousel.min.js" type="text/javascript"></script>
+    
+    <script src="js/layerslider.transitions.js"></script> 
+    <script src="js/layerslider.kreaturamedia.jquery.js"></script> 
+    <script src="js/greensock.js"></script> 
+    
+    <script data-cfasync="false" type="text/javascript">var lsjQuery = jQuery;</script><script data-cfasync="false" type="text/javascript"> lsjQuery(document).ready(function() { if(typeof lsjQuery.fn.layerSlider == "undefined") { lsShowNotice('layerslider_9','jquery'); } else { lsjQuery("#layerslider_9").layerSlider({responsiveUnder: 1240, layersContainer: 1170, startInViewport: false, pauseOnHover: false, forceLoopNum: false, autoPlayVideos: false, skinsPath: 'js/layerslider/skins/'}) } }); </script>
+	
+	<script src="js/jquery.jcarousel.min.js" type="text/javascript"></script>
+	
+	<script src="js/jquery.isotope.min.js" type="text/javascript"></script>
+	<script src="js/jquery.prettyPhoto.js" type="text/javascript"></script>
+	<script src="js/main.js.download"></script>
+        <script src="js/wow.min.js.download"></script>
+	<script src="js/masonry.pkgd.min.js" type="text/javascript"></script>
+    
+    <script src="js/jquery.smartresize.js" type="text/javascript"></script>
+	
+	<script src="js/responsive-nav.js" type="text/javascript"></script>
+	<script src="js/jquery.meanmenu.min.js" type="text/javascript"></script>
+	
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+	<script src="js/jquery.gmap.min.js"></script>
+    
+	<!-- **Sticky Nav** -->
+	<script src="js/jquery.sticky.js" type="text/javascript"></script>
+
+	<!-- **To Top** -->
+	<script src="js/jquery.ui.totop.min.js" type="text/javascript"></script>
+	
+	<script type="text/javascript" src="js/twitter/jquery.tweet.min.js"></script>
+    
+    <script src="js/jquery.viewport.js" type="text/javascript"></script> 
+	
+	<script type="text/javascript" src="js/jquery.validate.min.js"></script>
+	
+	<script src="js/retina.js" type="text/javascript"></script>
+	
+	<script src="js/jquery.nicescroll.min.js" type="text/javascript"></script>
+    
+	<script src="js/custom.js" type="text/javascript"></script>
+    
+            <script type="text/javascript">
+
+jQuery(document).ready(function($) {
+
+var feedbackSlider = $('.feedback-slider');
+feedbackSlider.owlCarousel({
+items: 1,
+nav: true,
+dots: true,
+autoplay: true,
+loop: true,
+mouseDrag: true,
+touchDrag: true,
+navText: ["<i class='fa fa-long-arrow-left'></i>", "<i class='fa fa-long-arrow-right'></i>"],
+responsive:{
+
+// breakpoint from 767 up
+767:{
+nav: true,
+dots: false
+}
+}
+});
+
+feedbackSlider.on("translate.owl.carousel", function(){
+$(".feedback-slider-item h3").removeClass("animated fadeIn").css("opacity", "0");
+$(".feedback-slider-item img, .feedback-slider-thumb img, .customer-rating").removeClass("animated zoomIn").css("opacity", "0");
+});
+
+feedbackSlider.on("translated.owl.carousel", function(){
+$(".feedback-slider-item h3").addClass("animated fadeIn").css("opacity", "1");
+$(".feedback-slider-item img, .feedback-slider-thumb img, .customer-rating").addClass("animated zoomIn").css("opacity", "1");
+});
+feedbackSlider.on('changed.owl.carousel', function(property) {
+var current = property.item.index;
+var prevThumb = $(property.target).find(".owl-item").eq(current).prev().find("img").attr('src');
+var nextThumb = $(property.target).find(".owl-item").eq(current).next().find("img").attr('src');
+var prevRating = $(property.target).find(".owl-item").eq(current).prev().find('span').attr('data-rating');
+var nextRating = $(property.target).find(".owl-item").eq(current).next().find('span').attr('data-rating');
+$('.thumb-prev').find('img').attr('src', prevThumb);
+$('.thumb-next').find('img').attr('src', nextThumb);
+$('.thumb-prev').find('span').next().html(prevRating + '<i class="fa fa-star"></i>');
+$('.thumb-next').find('span').next().html(nextRating + '<i class="fa fa-star"></i>');
+});
+$('.thumb-next').on('click', function() {
+feedbackSlider.trigger('next.owl.carousel', [300]);
+return false;
+});
+$('.thumb-prev').on('click', function() {
+feedbackSlider.trigger('prev.owl.carousel', [300]);
+return false;
+});
+
+}); //end ready
+
+               // owl carousel slider best staff
+			   (function($) {
+    "use strict";
+    $(function(){
+        // BACK TOP
+        $('#back-top a').on('click', function () {
+            $('body,html').animate({
+                scrollTop: 0
+            }, 700);
+            return false;
+        });
+        // -------------------------------------//
+
+        // SHOW BUTTON BACK TOP WHEN SCROLL DOWN
+        var temp = $(window).height();
+        $(window).scroll(function () {
+            if ($(window).scrollTop() > temp){
+                $('#back-top a').addClass('show');
+                $('#back-top a').removeClass('hide');
+            }
+            else {
+                $('#back-top a').addClass('hide');
+                $('#back-top a').removeClass('show');
+            }
+        });
+        // -------------------------------------//
+
+        // WOW JS
+        new WOW().init();
+        // -------------------------------------//
+
+        // CHANGE SELECTBOX
+        $(".selectbox").selectbox();
+        // -------------------------------------//
+
+        // SHOW - HIDE - BOX SEARCH ON MENU
+        $('.button-search').on('click', function () {
+            $('.nav-search').toggleClass('hide');
+        });
+        // HIDE BOX SEARCH WHEN CLICK OUTSIDE
+        if ($(window).width() > 767){
+            $('body').on('click', function (event) {
+                if ($('.button-search').has(event.target).length == 0 && !$('.button-search').is(event.target)
+                    && $('.nav-search').has(event.target).length == 0 && !$('.nav-search').is(event.target)) {
+                    if ($('.nav-search').hasClass('hide') == false) {
+                        $('.nav-search').toggleClass('hide');
+                    };
+                }
+            });
+        }
+        // -------------------------------------//
+
+        // HEADER FIXED WHEN SCROLL
+        if ($('.header-main').hasClass('homepage-01')) {
+            if ($(window).width() > 767) {
+                var topmenu = $(".header-topbar").height();
+
+                $(window).scroll(function () {
+                    if ($(window).scrollTop() > topmenu) {
+                        $(".header-main.homepage-01").addClass('header-fixed');
+                    }
+                    else {
+                        $(".header-main.homepage-01").removeClass('header-fixed');
+                    };
+                });
+            }
+            else {
+                var offset = 117;
+
+                $(window).scroll(function () {
+                    if ($(window).scrollTop() > offset) {
+                        $(".header-main.homepage-01").addClass('header-fixed');
+                    }
+                    else {
+                        $(".header-main.homepage-01").removeClass('header-fixed');
+                    }
+                });
+            }
+        }
+        else if ($('.header-main').hasClass('homepage-02')) {
+            var $topmenu = $(".choose-course-2"),
+                offset = $topmenu.offset();
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > offset.top - 1) {
+                    $(".header-main.homepage-02").addClass('header-fixed');
+                }
+                else {
+                    $(".header-main.homepage-02").removeClass('header-fixed');
+                }
+            });
+
+            // button scroll
+            $('.arrow-down').click(function () {
+                $('html, body').animate({
+                    scrollTop: $(".choose-course-2").offset().top
+                }, 1000);
+            });
+        }
+        else if ($('.header-main').hasClass('homepage-03')) {
+            var $topmenu = $(".section.slider-banner-03"),
+                offset = $topmenu.offset();
+
+            $(window).scroll(function () {
+                if ($(window).scrollTop() > offset.top) {
+                    $(".header-main.homepage-03").addClass('header-fixed');
+                }
+                else {
+                    $(".header-main.homepage-03").removeClass('header-fixed');
+                }
+            });
+        }
+        // -------------------------------------//
+
+        // SHOW HIDE MENU WHEN SCROLL DOWN - UP
+        if ($(window).width() <= 1024) {
+            var lastScroll = 50;
+            $(window).scroll(function (event) {
+                //Sets the current scroll position
+                var st = $(this).scrollTop();
+                //Determines up-or-down scrolling
+                if (st > lastScroll) {
+                    //Replace this with your function call for downward-scrolling
+                    $('.header-main').addClass('hide-menu');
+                }
+                else {
+                    //Replace this with your function call for upward-scrolling
+                    $('.header-main').removeClass('hide-menu');
+                }
+
+                if ($(window).scrollTop() == 0 ){
+                    $('.header-main').removeClass('.header-fixed').removeClass('hide-menu');
+                };
+                //Updates scroll position
+                lastScroll = st;
+            });
+        }
+        $(window).scroll(function (event) {
+            // hide dropdown menu when scroll
+            if ($('.navbar-collapse').hasClass('in')) {
+                $('.edugate-navbar').click();
+            }
+
+            // overflow scroll when screen small
+            if ($(window).scrollTop() < 52) {
+                var screen_height = $(window).height() - $('.header-main').height() - $('.header-topbar').height(),
+                    navigation = $('.navigation').height();
+                $('.navigation').css('max-height', screen_height - 20);
+                if (navigation > screen_height) {
+                    $('.navigation').addClass('scroll-nav');
+                }
+            }
+            else {
+                var screen_height = $(window).height() - $('.header-main').height(),
+                    navigation = $('.navigation').height();
+                $('.navigation').css('max-height', screen_height - 30);
+                if (navigation > screen_height) {
+                    $('.navigation').addClass('scroll-nav');
+                }
+            }
+
+            // close dropdown sub menu
+            var st2 = $(this).scrollTop();
+            if (st2 > 0) {
+                //Replace this with your function call for downward-scrolling
+                $('.navigation').find('.dropdown').removeClass('open');
+            };
+
+        });
+        // show hide dropdown menu
+        if ($(window).width() <= 767) {
+            $('.nav-links>.dropdown>a').on('click', function(){
+                if ($(this).parent().find('.edugate-dropdown-menu-1').hasClass('dropdown-focus') == true) {
+                    $(this).parent().find('.edugate-dropdown-menu-1').removeClass('dropdown-focus');
+                }
+                else {
+                    $('.nav-links .dropdown .edugate-dropdown-menu-1').removeClass('dropdown-focus');
+                    $(this).parent().find('.edugate-dropdown-menu-1').addClass('dropdown-focus');
+                }
+            });
+            $('.edugate-dropdown-menu-1 .dropdown>a').on('click', function(){
+                $(this).parent().find('.edugate-dropdown-menu-2:first').toggleClass('dropdown-focus');
+            });
+
+            $('body').click(function (event) {
+                if ( $('.nav-links').has(event.target).length == 0 && !$('.nav-links').is(event.target)) {
+                    if ($('.dropdown-menu').hasClass('dropdown-focus')) {
+                        $('.dropdown-menu').removeClass('dropdown-focus');
+                    }
+                }
+
+                if (
+                    $('.edugate-navbar').has(event.target).length == 0 && !$('.edugate-navbar').is(event.target)
+                    && $('.navigation').has(event.target).length == 0 && !$('.navigation').is(event.target)
+                ) {
+                    if ($('.navbar-collapse').hasClass('in')) {
+                        $('.edugate-navbar').click();
+                    }
+                }
+            });
+        }
+
+        // -------------------------------------//
+        // THEME SETTING
+        $('.theme-setting > a.btn-theme-setting').on('click', function(){
+            if($('.theme-setting').css('left') < '0'){
+                $('.theme-setting').css('left', '0');
+            } else {
+                $('.theme-setting').css('left', '-220px');
+            }
+        });
+
+        var list_color = $('.theme-setting > .content-theme-setting > ul.color-skins > li');
+
+        var setTheme = function (color) {
+            $('#color-skins').attr('href', 'assets/css/'+ color + '.css');
+            $('.logo .header-logo img').attr('src', 'assets/images/logo-' + color + '.png');    
+            setTimeout(function(){
+                $('.theme-loading').hide();
+            }, 1000);
+        };
+
+        list_color.on('click', function() {
+            list_color.removeClass("active");
+            $(this).addClass("active");
+            $('.theme-loading').show();
+            setTheme($(this).attr('data-color'));
+            Cookies.set('color-skin', $(this).attr('data-color'));
+        });
+    });
+
+    // set height and width
+    var shw_set_height_width = function() {
+        // set width for section search
+        $('.search-input .form-input').width($('.container').width() - ($('.form-select').width()*3) - 115 );
+
+        if ($(window).width() > 767) {
+            // slider banner 1
+            $('.slider-banner').height($(window).height() - $('header').height() + 1);
+            $('.slider-banner .slider-item').height($(window).height() - $('header').height() + 1);
+            // slider banner 3
+            $('.slider-banner-03').height($(window).height() - $('header').height() + 1);
+        }
+
+        // set height for page 03
+        var height_page03 = $('.choose-course-3 .item-course').height();
+        $('.choose-course-3').find('.item-course').height( height_page03);
+
+    };
+
+    // owl carousel for ....
+    var shw_slider_carousel = function() {
+         // owl carousel slider banner
+        $('.slider-banner').owlCarousel({
+            margin: 0,
+            loop: true,
+            //lazyLoad: true,
+            animateOut: 'fadeOut',
+            animateIn: 'fadeIn',
+            nav: false,
+            responsiveClass: true,
+            autoplay:true,
+            autoplayTimeout: 7000,
+            smartSpeed: 800,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                1024: {
+                    items: 1
+                }
+            }
+        });
+
+         // owl carousel event-detail-list-staff
+        $('.event-detail-list-staff').owlCarousel({
+            margin: 30,
+            loop: true,
+            nav: false,
+            responsiveClass: true,
+            autoplay:true,
+            autoplayTimeout: 7000,
+            smartSpeed: 1000,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                480: {
+                    items: 2
+                },
+                600: {
+                    items: 2
+                },
+                768: {
+                    items: 3,
+                    margin: 15
+                },
+                1024: {
+                    items: 3
+                }
+            }
+        });
+
+        // owl carousel top courses
+        $('.top-courses-slider').owlCarousel({
+            margin: 30,
+            loop: true,
+            nav: false,
+            responsiveClass: true,
+            smartSpeed: 1000,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                1024: {
+                    items: 1
+                },
+                1025: {
+                    items: 2
+                }
+            }
+        });
+        // button click slider top courses
+        $('.group-btn-top-courses-slider .btn-prev').on('click', function(){
+            $('.top-courses-slider .owl-prev').click();
+        });
+        $('.group-btn-top-courses-slider .btn-next').on('click', function(){
+            $('.top-courses-slider .owl-next').click();
+        });
+
+        // owl carousel slider logos
+        $('.carousel-logos').owlCarousel({
+            margin: 115,
+            loop: true,
+            //lazyLoad: true,
+            nav: false,
+            autoplay:true,
+            autoplayTimeout: 5000,
+            smartSpeed: 1500,
+            responsiveClass: true,
+            responsive: {
+                0: {
+                    items: 2,
+                    margin: 30,
+                },
+                320: {
+                    items: 3,
+                    margin: 40,
+                },
+                480: {
+                    items: 3,
+                    margin: 50,
+                },
+                600: {
+                    items: 4,
+                    margin: 90,
+                },
+                768: {
+                    items: 5,
+                    margin: 60,
+                },
+                1024: {
+                    items: 5,
+                    margin: 90,
+                },
+                1025: {
+                    items: 6
+                }
+            }
+        });
+
+        // owl carousel slider best staff
+        $('.best-staff-content').owlCarousel({
+            margin: 30,
+			nav:false,
+            loop: true,
+            responsiveClass: true,
+            autoplay:true,
+            autoplayTimeout: 5000,
+            smartSpeed: 1000,
+            responsive: {
+                0: {
+                    items: 1,
+                    margin: 15,
+                },
+                400: {
+                    items: 2,
+                    margin: 15,
+                },
+                768: {
+                    items: 3
+                },
+                1024: {
+                    items: 3
+                },
+                1025: {
+                    items: 4
+                }
+            }
+        });
+        // button click slider best staff
+        $('.best-staff .group-btn-slider .btn-prev').on('click', function(){
+            $('.best-staff .owl-prev').click();
+        });
+        $('.best-staff .group-btn-slider .btn-next').on('click', function(){
+            $('.best-staff .owl-next').click();
+        });
+
+        // responsive for section pricing when screen < 768
+        if ($(window).width() <= 768){
+            $('.pricing-wrapper').owlCarousel({
+                margin: 15,
+                loop: true,
+                nav: false,
+                responsiveClass: true,
+                smartSpeed: 1000,
+                responsive: {
+                    0: {
+                        items: 1,
+                        margin: 0,
+                    },
+                    636: {
+                        items: 2
+                    },
+                    768: {
+                        items: 2
+                    }
+                }
+            });
+
+            $('.event-detail-content .row').owlCarousel({
+                margin: 15,
+                loop: true,
+                nav: false,
+                responsiveClass: true,
+                smartSpeed: 1000,
+                responsive: {
+                    0: {
+                        items: 1,
+                        margin: 0
+                    },
+                    768: {
+                        items: 2
+                    }
+                }
+            });
+        };
+        // button click slider
+        $('.pricing .group-btn-slider .btn-prev').on('click', function(){
+            $('.pricing-wrapper .owl-prev').click();
+        });
+        $('.pricing .group-btn-slider .btn-next').on('click', function(){
+            $('.pricing-wrapper .owl-next').click();
+        });
+
+        // Responsive for Progress bar when screen < 767
+        if ($(window).width() <= 767){
+            $('.progress-bar-wrapper .content').owlCarousel({
+                margin: 0,
+                loop: true,
+                nav: false,
+                responsiveClass: true,
+                smartSpeed: 1000,
+                responsive: {
+                    0: {
+                        items: 2,
+                        margin: 15,
+                    },
+                    480: {
+                        items: 2,
+                        margin: 15,
+                    },
+                    600: {
+                        items: 3
+                    },
+                    767: {
+                        items: 3
+                    }
+                }
+            });
+        };
+        // button click slider
+        $('.progress-bars .group-btn-slider .btn-prev').on('click', function(){
+            $('.progress-bars .owl-prev').click();
+        });
+        $('.progress-bars .group-btn-slider .btn-next').on('click', function(){
+            $('.progress-bars .owl-next').click();
+        });
+    };
+
+    // Responsive for table
+    var shw_responsive_table = function() {
+        $(".table-body").scroll(function ()
+        {
+            $(".table-header").offset({ left: -1*this.scrollLeft + 15});
+        });
+
+        $(".course-table").height($(".inner-container").height());
+        $(".course-table").width($(".inner-container").width());
+    };
+
+    $(document).ready(function() {
+        shw_set_height_width();
+    });
+
+    $(window).load(function() {
+        shw_slider_carousel();
+        shw_responsive_table();
+
+    });
+
+    $(window).resize(function() {
+        shw_set_height_width();
+    });
+
+})(jQuery);
+
+        </script>
+        
+        <div class="modal fade" id="modalLoginForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
+  <div class="modal-dialog" role="document">
+  <form name="login" method="post" action="soft/login.php">
+    <div class="modal-content">
+      <div class="modal-header text-center">
+        <h4 class="modal-title w-200 font-weight-bold" style="text-align:center; font-weight:bold;">Sign in</h4>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body mx-3">
+      
+        <div class="md-form mb-5">
+          <i class="fa fa-envelope prefix grey-text"></i>
+          <input name="back" type="hidden" id="back" value=""> 
+          <input type="text" name="loginid" class="form-control validate" placeholder="Your User ID?">
+        </div>
+
+        <div class="md-form mb-4">
+          <i class="fa fa-lock prefix grey-text"></i>
+          <input type="password" name="password" class="form-control validate" placeholder="*********">
+        </div>
+
+      </div>
+      <div class="modal-footer d-flex justify-content-center">
+        <input type="submit" style="background-color:#036;color:#fff;" value="LOGIN">
+      </div>
+    </div>
+    </form>
+  </div>
+</div>
+    </body></html>
